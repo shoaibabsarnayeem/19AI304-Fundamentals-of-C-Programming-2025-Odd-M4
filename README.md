@@ -10,7 +10,7 @@
 # Algorithm:
 ### Step 1:
   Start
-### Step 2: 
+### Step 2: ,
   Include the standard input-output library: #include<stdio.h>.
 ### Step 3:
 ### Call the function `validateDate()`.
